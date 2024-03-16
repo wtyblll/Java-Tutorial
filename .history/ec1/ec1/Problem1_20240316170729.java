@@ -11,10 +11,6 @@ public class Problem1 {
 	 * Runtime: O(N^2 M^2).
 	 * With N airports and M flights
 	 */
-	public static boolean isLeapYear(int year) {
-		return ((year % 4 == 0 && year % 100 != 0) || year % 400 == 0);
-	}
-
 	public List<Flight> solve() {
 		// FIXME
 		return null;
