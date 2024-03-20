@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "C:/code/java/code/src/Java-Tutorial/library-sp18/javalib/algs4.jar",
+        "C:/code/java/code/src/Java-Tutorial/library-sp18/javalib/hamcrest-core-1.3.jar",
+        "C:/code/java/code/src/Java-Tutorial/library-sp18/javalib/jh61b.jar",
+        "C:/code/java/code/src/Java-Tutorial/library-sp18/javalib/junit-4.12.jar",
+        "C:/code/java/code/src/Java-Tutorial/library-sp18/javalib/stdlib.jar",
+        "C:/code/java/code/src/Java-Tutorial/library-sp18/javalib/stdlib-package.jar",
+        "C:/code/java/code/src/Java-Tutorial/library-sp18/javalib/xchart-3.5.1.jar"
+    ]
+}
